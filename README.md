@@ -68,7 +68,7 @@ data {
 }
 ```
 
-### 5. Implement rendezvous.py.
+### 5. Implement all TODO sections in rendezvous.py and you don't need to change other files. Finally, test your solution.
 
 * Run this test to validate your solution.
 
